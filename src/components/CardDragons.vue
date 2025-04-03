@@ -16,6 +16,7 @@
       </div>
       <p v-else class="loading">Cargando dragones...</p>
     </div>
+    
   </template>
   
   <script setup>
