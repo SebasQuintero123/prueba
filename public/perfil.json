@@ -1,0 +1,20 @@
+{
+    "perfil": {
+        "nombre": "Sebastian Quintero",
+        "edad": 20,
+        "ocupacion": "Desarrollador Web",
+        "ubicacion": "Cali, Colombia",
+        "descripcion": "Apasionado por la tecnología y los videojuegos.",
+        "imagen": "foto.jpeg",
+        "redes": {
+            "github": "https://github.com/sebastianq",
+            "linkedin": "https://linkedin.com/in/sebastian-quintero-14a81a355",
+            "Instagram": "https://instagram.com/sebas.quin.05"
+        },
+        "habilidades": ["HTML", "CSS", "JavaScript", "C++", "C#"],
+        "contacto": {
+            "email": "sebas.quintero.775@gmail.com",
+            "telefono": "+57 3107175809"
+        }
+    }
+}

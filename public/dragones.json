@@ -1,0 +1,203 @@
+{
+    "dragones": [
+        {
+            "nombre": "Dragón de Fuego",
+            "elemento": "Fuego",
+            "habitat": "Volcanes y montañas",
+            "descripcion": "Un dragón feroz con llamas en su aliento.",
+            "fuerza":"8/10",
+            "habilidades_especiales": "bola ignea, rayo de fuego",
+            "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/ETFJQEJLGBHSFLFBF45ET4YUEE.jpg"
+        },
+        {
+            "nombre": "Dragón de Hielo",
+            "elemento": "Hielo",
+            "habitat": "Regiones frías y montañas nevadas",
+            "descripcion": "Su aliento puede congelar cualquier cosa al instante.",
+            "fuerza":"8/10",
+            "habilidades_especiales": "pulso congelante, miro de hielo",
+            "imagen": "https://lossietereinos.com/wp-content/uploads/2015/10/45856bbca645a24f7b7a35cce86fae15-d5t337t-730x516.jpg"
+        },
+        {
+            "nombre": "Dragón de Bosque",
+            "elemento": "Naturaleza",
+            "habitat": "Bosques y junglas",
+            "descripcion": "Un dragón pacífico que protege la naturaleza.",
+            "fuerza":"6/10",
+            "habilidades_especiales": "control de las planats, mimetizacion",
+            "imagen": "https://s0.smartresize.com/wallpaper/609/406/HD-wallpaper-fantasy-forest-dragon.jpg"
+        },
+        {
+            "nombre": "Dragón del Trueno",
+            "elemento": "Electricidad",
+            "habitat": "Tormentas y cielos nublados",
+            "descripcion": "Genera rayos con cada aleteo.",
+            "fuerza":"10/10",
+            "habilidades_especiales": "generación de rayos, velocidad del rayo",
+            "imagen": "https://pm1.aminoapps.com/7693/f6e62183f518a76c7ceecc45da9437a7ff332019r1-1920-1200v2_uhq.jpg"
+        },
+        {
+            "nombre": "Dragón de Tierra",
+            "elemento": "Tierra",
+            "habitat": "Montañas y cuevas",
+            "descripcion": "Su piel es dura como la roca.",
+            "fuerza":"9/10",
+            "habilidades_especiales": "control de terremotos, maxima resistencia",
+            "imagen": "https://previews.123rf.com/images/warpaintcobra/warpaintcobra2203/warpaintcobra220300010/188057197-drag%C3%B3n-verde-en-la-ilustraci%C3%B3n-3d-de-tierra.jpg"
+        },
+        {
+            "nombre": "Dragón Espectral",
+            "elemento": "Oscuridad",
+            "habitat": "Cementerios y ruinas antiguas",
+            "descripcion": "Se dice que es el guardián de las almas perdidas.",
+            "fuerza":"7/10",
+            "habilidades_especiales": "invisibilidad, humo desvanecedor",
+            "imagen": "https://i.blogs.es/17af4f/imagen-de-elden-ring-shadow-of-the-erdtree-dragon-de-llama-espectral/1366_2000.jpeg"
+        },
+        {
+            "nombre": "Dragón Solar",
+            "elemento": "Luz",
+            "habitat": "Desiertos ardientes",
+            "descripcion": "Brilla intensamente y trae esperanza a los viajeros.",
+            "fuerza":"10/10",
+            "habilidades_especiales": "curacion mayor, hyper  rayo solar",
+            "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fcca5a08-321c-4b25-85c7-14503ead3d04/ddeofd3-f1d5f625-5f7b-46db-99c8-6da8fa4ff2d1.jpg/v1/fill/w_1024,h_725,q_75,strp/_closed__solar_dragon_by_ashitanation_ddeofd3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzI1IiwicGF0aCI6IlwvZlwvZmNjYTVhMDgtMzIxYy00YjI1LTg1YzctMTQ1MDNlYWQzZDA0XC9kZGVvZmQzLWYxZDVmNjI1LTVmN2ItNDZkYi05OWM4LTZkYThmYTRmZjJkMS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0X62-MAF-ep5RNtmWOPgKysooxMZm8F6EkYauFrEH2Y"
+        },
+        {
+            "nombre": "Dragón Lunar",
+            "elemento": "Misterio",
+            "habitat": "Bosques encantados",
+            "descripcion": "Se oculta en la noche y guía a los perdidos.",
+            "fuerza":"9/10",
+            "habilidades_especiales": "ilucion de sombras, sigilo nocturno",
+            "imagen": "https://pm1.aminoapps.com/7169/692315ca0a7e898c297e6f669ed96e50fd8832c0r1-735-508v2_uhq.jpg"
+        },
+        {
+            "nombre": "Dragón de Viento",
+            "elemento": "Aire",
+            "habitat": "Cumbres altas",
+            "descripcion": "Controla las corrientes de aire con su vuelo.",
+            "fuerza":"7/10",
+            "habilidades_especiales": "vuelo ultrasonico, torbellino tornado",
+            "imagen": "https://i.pinimg.com/236x/6f/bc/6a/6fbc6a33cd3fd6ee94aa4d30df213b3f.jpg"
+        },
+        {
+            "nombre": "Dragón de Metal",
+            "elemento": "Acero",
+            "habitat": "Minas y montañas ricas en minerales",
+            "descripcion": "Su piel es impenetrable.",
+            "fuerza":"9/10",
+            "habilidades_especiales": "piel inpenetrable, atraccion magnetica",
+            "imagen": "data:image/jpeg;base64,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"
+        },
+        {
+            "nombre": "Dragón Marino",
+            "elemento": "Agua",
+            "habitat": "Océanos y ríos profundos",
+            "descripcion": "Nada con velocidad y controla las mareas.",
+            "fuerza":"9/10",
+            "habilidades_especiales": "control del agua, maremoto devastador",
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQ1NdhVPSHw1mhK5ADVY1uo36cQkdjCfPag&s"
+        },
+        {
+            "nombre": "Dragón de Ceniza",
+            "elemento": "Fuego y Tierra",
+            "habitat": "Regiones volcánicas",
+            "descripcion": "Sus escamas están cubiertas de ceniza ardiente.",
+            "fuerza":"9/10",
+            "habilidades_especiales": "renacimiento, lluvia de cenizas",
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjSTh3IE5PdhaYuNnIjfcr7dY4ZR1H1zcfBg&s"
+        },
+        {
+            "nombre": "Dragón Arcano",
+            "elemento": "Magia",
+            "habitat": "Bibliotecas místicas",
+            "descripcion": "Posee un vasto conocimiento mágico.",
+            "fuerza":"8/10",
+            "habilidades_especiales": "ataques magicos, sabiduria infinita",
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpaSX6SDOQ8zZiE6PyQZRovcK7hlPaUOVpDw&s"
+        },
+        {
+            "nombre": "Dragón de Hueso",
+            "elemento": "Oscuridad",
+            "habitat": "Cuevas prohibidas",
+            "descripcion": "Un esqueleto viviente con poderes malditos.",
+            "fuerza":"7/10",
+            "habilidades_especiales": "control de los muertos, maldicion eterna",
+            "imagen": "https://i.blogs.es/15b573/d5999597a2e18ca0b5702fc18a71df5e/1366_2000.jpg"
+        },
+        {
+            "nombre": "Dragón de Cristal",
+            "elemento": "Luz",
+            "habitat": "Montañas cristalinas",
+            "descripcion": "Brilla como un diamante bajo el sol.",
+            "fuerza":"8/10",
+            "habilidades_especiales": "reflejo maximo, cristal irrompible",
+            "imagen": "https://ih1.redbubble.net/image.568600604.4213/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg"
+        },
+        {
+            "nombre": "Dragón de la Tormenta",
+            "elemento": "Electricidad y Aire",
+            "habitat": "Nubes de tormenta",
+            "descripcion": "Controla de las nubes y los vientos huracanados.",
+            "fuerza":"8/10",
+            "habilidades_especiales": "nubes control, desvanecimiento",
+            "imagen": "https://preview.redd.it/t1t5b8lxd8wc1.jpeg?auto=webp&s=31995a69dd37f1d7e8c282a068ed45fd9b66ef79"
+        },
+        {
+            "nombre": "Dragón Sombrío",
+            "elemento": "Oscuridad",
+            "habitat": "Mares profundos y oscuros",
+            "descripcion": "Se mueve en las sombras sin ser visto.",
+            "fuerza":"10/10",
+            "habilidades_especiales": "control sombrio, garra negra",
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOXIlnDt-tyCv7Zqd4siIZis-p8ttSw3IVRw&s"
+        },
+        {
+            "nombre": "Dragón del Tiempo",
+            "elemento": "Dimensional",
+            "habitat": "Ruinas antiguas",
+            "descripcion": "Se dice que puede viajar en el tiempo.",
+            "fuerza":"10/10",
+            "habilidades_especiales": "destruccion temporal, vision futura",
+            "imagen": "data:image/jpeg;base64,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"
+        },
+        {
+            "nombre": "Dragón del Caos",
+            "elemento": "Caos",
+            "habitat": "Donde reina el desorden",
+            "descripcion": "Impredecible y extremadamente poderoso.",
+            "fuerza":"10/10",
+            "habilidades_especiales": "creacion de portales, cambia formas",
+            "imagen": "https://images.cults3d.com/c5v8OJXsl-8DjHKP9PrG-NnRZo0=/516x516/filters:no_upscale()/https://fbi.cults3d.com/uploaders/23293389/illustration-file/55dfa680-8297-4644-9098-c16a46352133/1.jpg"
+        },
+        {
+            "nombre": "Dragón Celestial",
+            "elemento": "Divino",
+            "habitat": "Los cielos sagrados",
+            "descripcion": "Adorado como un dios entre los dragones.",
+            "fuerza":"10/10",
+            "habilidades_especiales": "bendiciones divinas, control del destino",
+            "imagen": "https://i.pinimg.com/474x/17/28/0a/17280aa3de2d482114bd794b10a2e168.jpg"
+        },
+        {
+            "nombre": "Dragón Fantasma",
+            "elemento": "Espiritual",
+            "habitat": "Entre dimensiones",
+            "descripcion": "Puede atravesar la materia y volverse invisible.",
+            "fuerza":"8/10",
+            "habilidades_especiales": "intangibilidad, viaje entre dimensiones",
+            "imagen": "https://wp-s.ru/wallpapers/7/2/541844686508656/drag-n-fantasma-en-la-niebla-de-la-ma-ana.jpg"
+        },
+        {
+            "nombre": "Dragón de Veneno",
+            "elemento": "Tóxico",
+            "habitat": "Pantanos venenosos",
+            "descripcion": "Su aliento es letal y sus escamas segregan veneno.",
+            "fuerza":"7/10",
+            "habilidades_especiales": "aliento tóxico, veneno paralizante",
+            "imagen": "https://cdn.shopify.com/s/files/1/0705/3272/7061/files/1_5b2d2766-c6a6-4a31-9840-b666e91a3d41.jpg?v=1718409786"
+        }
+    ]
+}
+
